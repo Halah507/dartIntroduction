@@ -26,7 +26,9 @@ hope you find useful :)
 
 This package includes different features,such as:
 1-Dart packages
+
 2-Dart SDK
+
 3-library that includes different properties,method, class and objects.
 
 ## Getting started
@@ -35,13 +37,19 @@ This package includes different features,such as:
 
 Prerequisite:
 1-basic git and github and an available account
+
 2-basic programmng skills and knowledge
+
 3-patience!
+
 
 How to use this package:
 1-Clone/fork this repository
+
 2-VS Code or any code editor
+
 3-rreview this if it is match your needs 
+
 4-follow the steps the next section
 
 ## Usage
@@ -49,9 +57,13 @@ How to use this package:
 
 
 1-create your own pubspec
+
 2-run dart pub get to get the dependencies
+
 3-after reviewig the available lib and packages, choose the requires package path and type 'import' before the path name
+
 4-upgrade the the dependency by using 'dart pub upgrade' command
+
 5-Now you have it!
 
 ## Additional information
@@ -59,5 +71,6 @@ How to use this package:
 
 
 For more information, please refer to the following website:
+
 
 https://dart.dev/
