@@ -11,29 +11,53 @@ and the Flutter guide for
 [developing packages and plugins](https://flutter.dev/developing-packages). 
 -->
 
-TODO: Put a short description of the package here that helps potential users
-know whether this package might be useful for them.
+
+Hello everyone!
+
+Are you new to Dart development and want a starting package to practice?
+
+we provided you with this package that offer you variant resources and examples
+
+hope you find useful :)
 
 ## Features
 
-TODO: List what your package can do. Maybe include images, gifs, or videos.
+
+
+This package includes different features,such as:
+1-Dart packages
+2-Dart SDK
+3-library that includes different properties,method, class and objects.
 
 ## Getting started
 
-TODO: List prerequisites and provide or point to information on how to
-start using the package.
+
+
+Prerequisite:
+1-basic git and github and an available account
+2-basic programmng skills and knowledge
+3-patience!
+
+How to use this package:
+1-Clone/fork this repository
+2-VS Code or any code editor
+3-rreview this if it is match your needs 
+4-follow the steps the next section
 
 ## Usage
 
-TODO: Include short and useful examples for package users. Add longer examples
-to `/example` folder. 
 
-```dart
-const like = 'sample';
-```
+
+1-create your own pubspec
+2-run dart pub get to get the dependencies
+3-after reviewig the available lib and packages, choose the requires package path and type 'import' before the path name
+4-upgrade the the dependency by using 'dart pub upgrade' command
+5-Now you have it!
 
 ## Additional information
 
-TODO: Tell users more about the package: where to find more information, how to 
-contribute to the package, how to file issues, what response they can expect 
-from the package authors, and more.
+
+
+For more information, please refer to the following website:
+
+https://dart.dev/
